@@ -1,0 +1,2 @@
+# BarbarianKing
+Cara Membuat CRUD
